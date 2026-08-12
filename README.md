@@ -19,7 +19,7 @@ This project combines:
 - 📈 **Regression** for Loan Amount Prediction
 - ⚠️ **Classification** for Loan Default Risk Detection
 - 👥 **Clustering** for Customer Segmentation
-- 📊 **Exploratory Data Analysis (EDA)** for insights visualization
+- 📊 **Exploratory Data Analysis (EDA)** for insights visualizations
 
 The project demonstrates an end-to-end Machine Learning workflow including:
 
